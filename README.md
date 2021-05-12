@@ -1,4 +1,4 @@
-# terera
+# terera_start_app
 
 A new Flutter application.
 
